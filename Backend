@@ -1,0 +1,26 @@
+# E-commerce Backend 🛒
+
+## Description
+This is the **backend for an E-commerce application** built using **Spring Boot** and **MySQL**.  
+It provides RESTful APIs for managing products, retrieving product details, and serving data to frontend applications.
+
+## Features
+- REST APIs for product listing and retrieval
+- Connects to **MySQL database** for storing product data
+- Supports CRUD operations (Create, Read, Update, Delete) for products
+- Easy integration with any frontend application
+- Structured with **Spring Boot** best practices
+
+## Technologies Used
+- **Backend:** Spring Boot, Java
+- **Database:** MySQL
+- **Build Tool:** Maven
+- **API Testing:** Postman (or any HTTP client)
+- **JPA:** Spring Data JPA for database operations
+- **Security:** Basic setup (can be extended for authentication/authorization)
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/<your-username>/ecommerce-backend.git
